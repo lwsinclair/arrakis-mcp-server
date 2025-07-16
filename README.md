@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/abshkbh-arrakis-mcp-server-badge.png)](https://mseep.ai/app/abshkbh-arrakis-mcp-server)
+
 # Arrakis MCP Server
 
 A Model Context Protocol (MCP) server that exposes [Arrakis](https://github.com/abshkbh/arrakis) VM sandbox functionality to Large Language Models.
